@@ -1,2 +1,2 @@
-# wp_rbge_geo_tag
-Wordpress plugin to add simple geo tagging to Botanics Stories website - probably obsolete now.
+# rbge_geo_tag
+A Wordpress plugin to geo tag posts and display google maps of them
